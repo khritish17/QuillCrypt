@@ -1,5 +1,8 @@
 # QuillCrypt
 **QuillCrypt** is a light weight portable open sourced word-processor written in Rust. 
+
+> **Note:** The project "**QuillCrypt**" is under development, few updates can be made which may affect but not limited to - Documentation, APIs, source code, features, underlying frameworks etc., hence stay update with the repo for recent changes
+
 ### Backend
 - Rust
 ### Framework/Libraries
